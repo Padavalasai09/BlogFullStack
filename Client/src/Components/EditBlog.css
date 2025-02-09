@@ -1,0 +1,26 @@
+input:focus, textarea:focus {
+    border-color: #4FD1C5;
+    box-shadow: 0 0 5px rgba(79, 209, 197, 0.5);
+}
+
+.submit-btn:hover {
+    background-color: #2C7A7B;
+}
+
+.submit-btn:active {
+    background-color: #2A6E6E;
+}
+
+.edit-btn:hover {
+    background-color: #E11D48;
+}
+
+.error-message{
+    
+
+    color:red;
+    /* margin-left: 100px; */
+   
+    font-size: 18px;
+    font-weight:bold;
+}
